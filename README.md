@@ -1,0 +1,2 @@
+# Kyogre
+Angular Template
